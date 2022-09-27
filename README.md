@@ -14,5 +14,6 @@ const yowLim = {
   languages: ["Python", "Java", "HTML", "CSS", "JavaScript"],
   databases: ["MySQL", "MongoDB"],
   challenge: "I am learning full-stack web development through The Odin Project"
+  hobbies: ["video games", "movies", "dancing", "travelling"]
 }
 ```
