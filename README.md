@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Chong Yow Lim :smile:
+I'm a business and computer science undergraduate who has a keen interest in software development.
 
-<!--
-**ychong032/ychong032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### More about me :mag_right:
+```javascript
+const yowLim = {
+  pronouns: "he" | "him",
+  languages: ["Python", "Java", "HTML", "CSS", "JavaScript"],
+  databases: ["MySQL", "MongoDB"],
+  challenge: "I am learning full-stack web development through The Odin Project"
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<a target="_blank" href="https://icons8.com/icon/X8g2OZMx4ET5/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>]
+[<a target="_blank" href="https://icons8.com/icon/46565/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>]
