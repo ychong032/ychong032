@@ -17,3 +17,5 @@ const yowLim = {
   hobbies: ["video games", "movies", "dancing", "travelling"]
 }
 ```
+
+Feel free to reach out to me for a chat any time! 
