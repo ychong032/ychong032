@@ -1,4 +1,5 @@
 ### Hi there, I'm Chong Yow Lim :smile:
+<img src="icons/icons8-github.svg" href="https://github.com/ychong032" alt="github" display="inline">
 I'm a business and computer science undergraduate who has a keen interest in software development.
 
 ### More about me :mag_right:
