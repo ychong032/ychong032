@@ -5,7 +5,7 @@
 [<img src="icons/icons8-instagram.svg" alt="instagram">](https://instagram.com/yowyowyowyowyow)
 [<img src="icons/icons8-mail.svg" alt="mail">](mailto:yowlimchong2403@gmail.com)
 
-I'm a business and computer science undergraduate who has a keen interest in software development.
+I'm a business and computer science undergraduate who has a newfound interest in web development.
 
 ### More about me :mag_right:
 ```javascript
