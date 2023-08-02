@@ -13,9 +13,9 @@ const yowLim = {
   pronouns: "he" | "him",
   languages: ["Python", "Java", "HTML", "CSS", "JavaScript"],
   databases: ["MySQL", "MongoDB"],
-  challenge: "I am learning full-stack web development through The Odin Project",
+  challenge: "I am currently learning full-stack web development using the MERN stack",
   hobbies: ["video games", "movies", "dancing", "travelling"],
-  aspirations: "Currently looking for internships/graduate roles",
+  aspirations: "Currently looking for fresh graduate software engineering roles",
   funFact: "I am afraid of large bodies of water! I even find it hard to go swimming sometimes!"
 }
 ```
